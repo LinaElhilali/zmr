@@ -1,6 +1,6 @@
 pool:
   VmImage:ubuntu-20.04
-Stages:
+stages:
   stage: continuous_integration
   displayName: Continuous Integration
   jobs:
